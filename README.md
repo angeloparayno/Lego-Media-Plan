@@ -8,5 +8,5 @@ Created a Media Plan Presentation for Lego
 * [Lego Media Plan](https://github.com/angeloparayno/Lego-Media-Plan/blob/main/Lego%20Media%20Plan.pdf)
 
 ---
-[![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Images/Title%20Slide.png)](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa%20Wellness%20-%20C272.pdf)
+[![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Images/Title%20Slide.png)](https://github.com/angeloparayno/Lego-Media-Plan/blob/main/Lego%20Media%20Plan%20Cover.png)
 
